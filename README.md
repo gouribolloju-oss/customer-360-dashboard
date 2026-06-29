@@ -167,6 +167,6 @@ customer-360-dashboard/
 
 ## Author
 
-**Gouri Sri Bolloju**
+Gouri Sri Bolloju
 
-GitHub: https://github.com/gouribolloju-oss
+
